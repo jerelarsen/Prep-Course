@@ -1,0 +1,17 @@
+h1{
+    color: gold;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    right: 600px;
+    width: 500px;
+    background-color: gold;
+    padding:50px;
+    border: 10px solid blue;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
